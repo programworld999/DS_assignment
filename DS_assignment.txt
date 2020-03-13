@@ -1,0 +1,6 @@
+Array :
+-----
+1) Array linear search
+2) Array Binary search
+3) Array Bubble shorting
+4) 
